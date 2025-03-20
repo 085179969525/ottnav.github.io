@@ -1,1 +1,1 @@
-# OTT Navigator
+# IPTV Player 
